@@ -4,4 +4,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Uttam580/fun_with_python?color=red&style=plastic)
 
 
-#### Some useful and fun script 
+### Some useful and fun script 
+
+#### movie_picker 
+
+* This script display randomly top 251 imdb movies  dataset .
